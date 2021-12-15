@@ -54,7 +54,8 @@ header ul li a {
     border-radius: 20px;
 }
 
-header ul li a:hover {
+header ul li a:hover, 
+header ul li a.active{
     background: #fff;
     color: #2b1055;
 }
